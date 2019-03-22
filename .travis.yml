@@ -1,7 +1,6 @@
 # Config file for automatic testing at travis-ci.org
 sudo: false
 language: python
-cache: pip
 python:
   - "2.7"
   - "3.4"
